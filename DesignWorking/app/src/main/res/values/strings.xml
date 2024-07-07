@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pizza Order</string>
+    <string name="title">Beef Cheese</string>
+    <string name="c1">Cheese</string>
+    <string name="c2">Red Pepper</string>
+    <string name="c3">Green Pepper</string>
+    <string name="c4">Olive</string>
+    <string name="minute">30 min</string>
+    <string name="del">Delivery</string>
+    <string name="expla">If you\'re a cheese lover, this one is for you !</string>
+    <string name="pay">$7.00</string>
+    <string name="cart">Add To Cart</string>
+
+
+
+
+
+</resources>

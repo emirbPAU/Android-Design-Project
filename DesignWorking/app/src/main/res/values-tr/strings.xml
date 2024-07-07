@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pizza Order</string>
+    <string name="title">Etli Peynirli</string>
+    <string name="c1">Peynir</string>
+    <string name="c2">Kırmızı Biber</string>
+    <string name="c3">Yeşil Biber</string>
+    <string name="c4">Zeytin</string>
+    <string name="minute">30 dk</string>
+    <string name="del">Teslimat</string>
+    <string name="expla">Peynir seviyorsanız tam size göre !</string>
+    <string name="pay">₺228.00</string>
+    <string name="cart">Sepete Ekle</string>
+
+
+
+
+
+
+
+
+</resources>
